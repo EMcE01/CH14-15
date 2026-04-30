@@ -65,20 +65,14 @@ Highlight key concepts learned or applied:
 ## 🖼 Visual Aids: Screenshots / GIFs / Reports / Data Input & Output
 > 🔝 [Back to TOC](#-table-of-contents)
 
-![Screenshot 1]
-![Screenshot 2]
-![Demo]
+![Screenshot 1](assets/start.png)
+![Screenshot 2](assets/answer.png)
 
 ---
 
 ## 🧠 Reflection: 
 > 🔝 [Back to TOC](#-table-of-contents)
 
-Reflect on your experience:
-
-- 🧩 Challenges you faced  
-- 🚀 Skills you improved  
-- 🔄 What you would do differently  
-
+This was an interesting project to build. I feel like it would pair nicely with my flashcard project with "load default data" and would allow me to have options for users to quiz themselves on alternative data they don't have to submit themselves.
 ---
 
