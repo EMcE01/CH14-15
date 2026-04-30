@@ -1,4 +1,4 @@
-# 🧮 Project Title
+# 🧮 Trivia CH 14/15
 ### 👤 Author
 - Ethan McEvoy (https://github.com/EMcE01)
 
